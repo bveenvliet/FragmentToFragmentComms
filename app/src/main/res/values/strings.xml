@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentToFragmentComms</string>
+    <string name="message">message</string>
+</resources>
